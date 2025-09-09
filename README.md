@@ -8,6 +8,12 @@ A comprehensive Streamlit-based stock analysis application that provides Trading
 
 ##  Features
 
+###  Smart Data Processing
+- **Always Accurate Indicators** - Technical indicators calculated using 5 years of historical data for maximum accuracy
+- **Flexible Display Periods** - Choose any time period (1 day to 5 years) while maintaining indicator precision
+- **Optimized Performance** - Single API call provides comprehensive data for all analysis periods
+- **Real-time Analysis** - Latest market data with full historical context
+
 ###  Technical Indicators
 - **RSI (Relative Strength Index)** - Momentum oscillator with customizable overbought/oversold levels
 - **MACD** - Moving Average Convergence Divergence with signal line and histogram
